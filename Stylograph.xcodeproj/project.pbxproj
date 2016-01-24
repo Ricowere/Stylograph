@@ -1,0 +1,544 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5D8C68CE1C417B4F0041E6F4 /* Ink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8C68CD1C417B4F0041E6F4 /* Ink.swift */; };
+		5D8C68CF1C417B4F0041E6F4 /* Ink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8C68CD1C417B4F0041E6F4 /* Ink.swift */; };
+		5D8C68D01C417B4F0041E6F4 /* Ink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8C68CD1C417B4F0041E6F4 /* Ink.swift */; };
+		5D8C68D21C417B580041E6F4 /* InkExports.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8C68D11C417B580041E6F4 /* InkExports.swift */; };
+		5D8C68D31C417B580041E6F4 /* InkExports.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8C68D11C417B580041E6F4 /* InkExports.swift */; };
+		5D8C68D41C417B580041E6F4 /* InkExports.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8C68D11C417B580041E6F4 /* InkExports.swift */; };
+		5D8C68D61C417B640041E6F4 /* InkFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8C68D51C417B640041E6F4 /* InkFactory.swift */; };
+		5D8C68D71C417B640041E6F4 /* InkFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8C68D51C417B640041E6F4 /* InkFactory.swift */; };
+		5D8C68D81C417B640041E6F4 /* InkFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8C68D51C417B640041E6F4 /* InkFactory.swift */; };
+		5D8C68DA1C417C690041E6F4 /* InkCircled.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8C68D91C417C690041E6F4 /* InkCircled.swift */; };
+		5D8C68DB1C417C690041E6F4 /* InkCircled.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8C68D91C417C690041E6F4 /* InkCircled.swift */; };
+		5D8C68DC1C417C690041E6F4 /* InkCircled.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8C68D91C417C690041E6F4 /* InkCircled.swift */; };
+		5DBC0A871C40700D0078466F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DBC0A861C40700D0078466F /* AppDelegate.swift */; };
+		5DBC0A891C40700D0078466F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DBC0A881C40700D0078466F /* ViewController.swift */; };
+		5DBC0A8C1C40700D0078466F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DBC0A8A1C40700D0078466F /* Main.storyboard */; };
+		5DBC0A8E1C40700D0078466F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DBC0A8D1C40700D0078466F /* Assets.xcassets */; };
+		5DBC0A911C40700D0078466F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DBC0A8F1C40700D0078466F /* LaunchScreen.storyboard */; };
+		5DBC0A9C1C40700D0078466F /* StylographTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DBC0A9B1C40700D0078466F /* StylographTests.swift */; };
+		5DBC0AA71C40700D0078466F /* StylographUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DBC0AA61C40700D0078466F /* StylographUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		5DBC0A981C40700D0078466F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5DBC0A7B1C40700D0078466F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5DBC0A821C40700D0078466F;
+			remoteInfo = Stylograph;
+		};
+		5DBC0AA31C40700D0078466F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5DBC0A7B1C40700D0078466F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5DBC0A821C40700D0078466F;
+			remoteInfo = Stylograph;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		5D8C68CD1C417B4F0041E6F4 /* Ink.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ink.swift; sourceTree = "<group>"; };
+		5D8C68D11C417B580041E6F4 /* InkExports.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InkExports.swift; sourceTree = "<group>"; };
+		5D8C68D51C417B640041E6F4 /* InkFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InkFactory.swift; sourceTree = "<group>"; };
+		5D8C68D91C417C690041E6F4 /* InkCircled.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InkCircled.swift; sourceTree = "<group>"; };
+		5DBC0A831C40700D0078466F /* Stylograph.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Stylograph.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5DBC0A861C40700D0078466F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		5DBC0A881C40700D0078466F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		5DBC0A8B1C40700D0078466F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		5DBC0A8D1C40700D0078466F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5DBC0A901C40700D0078466F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		5DBC0A921C40700D0078466F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5DBC0A971C40700D0078466F /* StylographTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StylographTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5DBC0A9B1C40700D0078466F /* StylographTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StylographTests.swift; sourceTree = "<group>"; };
+		5DBC0A9D1C40700D0078466F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5DBC0AA21C40700D0078466F /* StylographUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StylographUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5DBC0AA61C40700D0078466F /* StylographUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StylographUITests.swift; sourceTree = "<group>"; };
+		5DBC0AA81C40700D0078466F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5DBC0AB41C4070230078466F /* StyloTests.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = StyloTests.playground; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5DBC0A801C40700D0078466F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5DBC0A941C40700D0078466F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5DBC0A9F1C40700D0078466F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5DBC0A7A1C40700D0078466F = {
+			isa = PBXGroup;
+			children = (
+				5DBC0A851C40700D0078466F /* Stylograph */,
+				5DBC0A9A1C40700D0078466F /* StylographTests */,
+				5DBC0AA51C40700D0078466F /* StylographUITests */,
+				5DBC0A841C40700D0078466F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5DBC0A841C40700D0078466F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5DBC0A831C40700D0078466F /* Stylograph.app */,
+				5DBC0A971C40700D0078466F /* StylographTests.xctest */,
+				5DBC0AA21C40700D0078466F /* StylographUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5DBC0A851C40700D0078466F /* Stylograph */ = {
+			isa = PBXGroup;
+			children = (
+				5DBC0A861C40700D0078466F /* AppDelegate.swift */,
+				5DBC0A881C40700D0078466F /* ViewController.swift */,
+				5DBC0A8A1C40700D0078466F /* Main.storyboard */,
+				5DBC0A8D1C40700D0078466F /* Assets.xcassets */,
+				5DBC0A8F1C40700D0078466F /* LaunchScreen.storyboard */,
+				5DBC0A921C40700D0078466F /* Info.plist */,
+				5DBC0AB41C4070230078466F /* StyloTests.playground */,
+				5D8C68CD1C417B4F0041E6F4 /* Ink.swift */,
+				5D8C68D11C417B580041E6F4 /* InkExports.swift */,
+				5D8C68D51C417B640041E6F4 /* InkFactory.swift */,
+				5D8C68D91C417C690041E6F4 /* InkCircled.swift */,
+			);
+			path = Stylograph;
+			sourceTree = "<group>";
+		};
+		5DBC0A9A1C40700D0078466F /* StylographTests */ = {
+			isa = PBXGroup;
+			children = (
+				5DBC0A9B1C40700D0078466F /* StylographTests.swift */,
+				5DBC0A9D1C40700D0078466F /* Info.plist */,
+			);
+			path = StylographTests;
+			sourceTree = "<group>";
+		};
+		5DBC0AA51C40700D0078466F /* StylographUITests */ = {
+			isa = PBXGroup;
+			children = (
+				5DBC0AA61C40700D0078466F /* StylographUITests.swift */,
+				5DBC0AA81C40700D0078466F /* Info.plist */,
+			);
+			path = StylographUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5DBC0A821C40700D0078466F /* Stylograph */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5DBC0AAB1C40700D0078466F /* Build configuration list for PBXNativeTarget "Stylograph" */;
+			buildPhases = (
+				5DBC0A7F1C40700D0078466F /* Sources */,
+				5DBC0A801C40700D0078466F /* Frameworks */,
+				5DBC0A811C40700D0078466F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Stylograph;
+			productName = Stylograph;
+			productReference = 5DBC0A831C40700D0078466F /* Stylograph.app */;
+			productType = "com.apple.product-type.application";
+		};
+		5DBC0A961C40700D0078466F /* StylographTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5DBC0AAE1C40700D0078466F /* Build configuration list for PBXNativeTarget "StylographTests" */;
+			buildPhases = (
+				5DBC0A931C40700D0078466F /* Sources */,
+				5DBC0A941C40700D0078466F /* Frameworks */,
+				5DBC0A951C40700D0078466F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5DBC0A991C40700D0078466F /* PBXTargetDependency */,
+			);
+			name = StylographTests;
+			productName = StylographTests;
+			productReference = 5DBC0A971C40700D0078466F /* StylographTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		5DBC0AA11C40700D0078466F /* StylographUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5DBC0AB11C40700D0078466F /* Build configuration list for PBXNativeTarget "StylographUITests" */;
+			buildPhases = (
+				5DBC0A9E1C40700D0078466F /* Sources */,
+				5DBC0A9F1C40700D0078466F /* Frameworks */,
+				5DBC0AA01C40700D0078466F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5DBC0AA41C40700D0078466F /* PBXTargetDependency */,
+			);
+			name = StylographUITests;
+			productName = StylographUITests;
+			productReference = 5DBC0AA21C40700D0078466F /* StylographUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5DBC0A7B1C40700D0078466F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "David Rico";
+				TargetAttributes = {
+					5DBC0A821C40700D0078466F = {
+						CreatedOnToolsVersion = 7.2;
+					};
+					5DBC0A961C40700D0078466F = {
+						CreatedOnToolsVersion = 7.2;
+						TestTargetID = 5DBC0A821C40700D0078466F;
+					};
+					5DBC0AA11C40700D0078466F = {
+						CreatedOnToolsVersion = 7.2;
+						TestTargetID = 5DBC0A821C40700D0078466F;
+					};
+				};
+			};
+			buildConfigurationList = 5DBC0A7E1C40700D0078466F /* Build configuration list for PBXProject "Stylograph" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5DBC0A7A1C40700D0078466F;
+			productRefGroup = 5DBC0A841C40700D0078466F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5DBC0A821C40700D0078466F /* Stylograph */,
+				5DBC0A961C40700D0078466F /* StylographTests */,
+				5DBC0AA11C40700D0078466F /* StylographUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5DBC0A811C40700D0078466F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5DBC0A911C40700D0078466F /* LaunchScreen.storyboard in Resources */,
+				5DBC0A8E1C40700D0078466F /* Assets.xcassets in Resources */,
+				5DBC0A8C1C40700D0078466F /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5DBC0A951C40700D0078466F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5DBC0AA01C40700D0078466F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5DBC0A7F1C40700D0078466F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5D8C68D61C417B640041E6F4 /* InkFactory.swift in Sources */,
+				5D8C68CE1C417B4F0041E6F4 /* Ink.swift in Sources */,
+				5DBC0A891C40700D0078466F /* ViewController.swift in Sources */,
+				5D8C68D21C417B580041E6F4 /* InkExports.swift in Sources */,
+				5D8C68DA1C417C690041E6F4 /* InkCircled.swift in Sources */,
+				5DBC0A871C40700D0078466F /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5DBC0A931C40700D0078466F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5D8C68CF1C417B4F0041E6F4 /* Ink.swift in Sources */,
+				5D8C68DB1C417C690041E6F4 /* InkCircled.swift in Sources */,
+				5D8C68D71C417B640041E6F4 /* InkFactory.swift in Sources */,
+				5DBC0A9C1C40700D0078466F /* StylographTests.swift in Sources */,
+				5D8C68D31C417B580041E6F4 /* InkExports.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5DBC0A9E1C40700D0078466F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5D8C68D01C417B4F0041E6F4 /* Ink.swift in Sources */,
+				5D8C68DC1C417C690041E6F4 /* InkCircled.swift in Sources */,
+				5D8C68D81C417B640041E6F4 /* InkFactory.swift in Sources */,
+				5DBC0AA71C40700D0078466F /* StylographUITests.swift in Sources */,
+				5D8C68D41C417B580041E6F4 /* InkExports.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		5DBC0A991C40700D0078466F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5DBC0A821C40700D0078466F /* Stylograph */;
+			targetProxy = 5DBC0A981C40700D0078466F /* PBXContainerItemProxy */;
+		};
+		5DBC0AA41C40700D0078466F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5DBC0A821C40700D0078466F /* Stylograph */;
+			targetProxy = 5DBC0AA31C40700D0078466F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		5DBC0A8A1C40700D0078466F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5DBC0A8B1C40700D0078466F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		5DBC0A8F1C40700D0078466F /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5DBC0A901C40700D0078466F /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		5DBC0AA91C40700D0078466F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		5DBC0AAA1C40700D0078466F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5DBC0AAC1C40700D0078466F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Stylograph/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Ricowere.Stylograph;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5DBC0AAD1C40700D0078466F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Stylograph/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Ricowere.Stylograph;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5DBC0AAF1C40700D0078466F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = StylographTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Ricowere.StylographTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Stylograph.app/Stylograph";
+			};
+			name = Debug;
+		};
+		5DBC0AB01C40700D0078466F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = StylographTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Ricowere.StylographTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Stylograph.app/Stylograph";
+			};
+			name = Release;
+		};
+		5DBC0AB21C40700D0078466F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = StylographUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Ricowere.StylographUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = Stylograph;
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		5DBC0AB31C40700D0078466F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = StylographUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Ricowere.StylographUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = Stylograph;
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5DBC0A7E1C40700D0078466F /* Build configuration list for PBXProject "Stylograph" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5DBC0AA91C40700D0078466F /* Debug */,
+				5DBC0AAA1C40700D0078466F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5DBC0AAB1C40700D0078466F /* Build configuration list for PBXNativeTarget "Stylograph" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5DBC0AAC1C40700D0078466F /* Debug */,
+				5DBC0AAD1C40700D0078466F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5DBC0AAE1C40700D0078466F /* Build configuration list for PBXNativeTarget "StylographTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5DBC0AAF1C40700D0078466F /* Debug */,
+				5DBC0AB01C40700D0078466F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5DBC0AB11C40700D0078466F /* Build configuration list for PBXNativeTarget "StylographUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5DBC0AB21C40700D0078466F /* Debug */,
+				5DBC0AB31C40700D0078466F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5DBC0A7B1C40700D0078466F /* Project object */;
+}
